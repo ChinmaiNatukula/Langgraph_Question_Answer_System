@@ -103,7 +103,7 @@ Langgraph_Question_Answer_System/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/nithishkumar86/Langgraph_Question_Answer_System.git
+git clone https://github.com/ChinmaiNatukula/Langgraph_Question_Answer_System.git
 cd Langgraph_Question_Answer_System
 ```
 
@@ -169,8 +169,6 @@ Generated PDF includes styled Q&A pairs with:
 
 ## 👨‍💻 Author
 
-**Nithish Kumar**
-- 🔗 [GitHub]([https://github.com/nithishkumar86](https://github.com/nithishkumar86/Langgraph_Question_Answer_System.git))
 - 💼 Actively looking for **AI Internship** or **Junior Agentic AI** roles
 
 ---
@@ -183,3 +181,4 @@ Generated PDF includes styled Q&A pairs with:
 ---
 
 ⭐ **If you found this useful, give it a star!**
+
