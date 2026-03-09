@@ -1,0 +1,9 @@
+langchain-groq
+langgraph
+langchain
+python-dotenv
+langchain-core
+langchain-community
+langchain-ollama
+fpdf2
+fastapi
